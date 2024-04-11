@@ -55,5 +55,5 @@ def lambda_handler(event, context):
             })
 
     return {
-        'records': output_records
+        'records': output_records #return the output records
     }

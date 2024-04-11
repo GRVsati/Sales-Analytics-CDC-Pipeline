@@ -1,4 +1,4 @@
-import boto3
+import boto3 #install in system before running the script using pip
 import random
 import time
 from decimal import Decimal

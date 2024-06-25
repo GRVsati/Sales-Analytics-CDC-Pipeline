@@ -47,6 +47,11 @@ git clone https://github.com/your-username/cdc-pipeline.git
 -Monitor the AWS services (Kinesis Streams, Lambda, etc.) for real-time data processing.
 -Use Amazon Athena to run SQL queries and analyze the data stored in Amazon S3.
 
+**USE CASES**
+-Data replication
+-Data Integration
+-Event Driven Architecture
+
 
 ### Contributing
 If you'd like to contribute to the development of this CDC pipeline, feel free to fork the repository and submit pull requests. Contributions, feedback, and suggestions are welcome!

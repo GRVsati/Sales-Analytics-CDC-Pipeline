@@ -48,9 +48,9 @@ git clone https://github.com/your-username/cdc-pipeline.git
 -Use Amazon Athena to run SQL queries and analyze the data stored in Amazon S3.
 
 **USE CASES**
--Data replication
--Data Integration
--Event Driven Architecture
+- Data replication
+- Data Integration
+- Event Driven Architecture
 
 
 ### Contributing
